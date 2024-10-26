@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|c:\\tat ca mon hoc\\c#\\trangiabao\\trangiabao\\form27wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form27wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form27wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form27wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form26wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form26wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form24wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form24wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form24wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form24wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\images\\ro2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\images\\ro2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\images\\gold.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\images\\gold.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\images\\trungga.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\images\\trungga.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\images\\gagag.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\images\\gagag.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\images\\vo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\images\\vo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form27wp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form27wp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\images\\ga2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\images\\ga2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\images\\bong.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\images\\bong.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\images\\background.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\images\\background.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form26wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form26wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form25wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form25wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form25wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form25wp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form24wp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form24wp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|C:\\Tat ca mon hoc\\C#\\TranGiaBao\\trangiabao\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275204FA-3796-4B7C-BA62-880E6DF97CA4}|TranGiaBao\\TranGiaBao.csproj|solutionrelative:trangiabao\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gold.png - PNG [360x360, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\gold.png",
+              "RelativeDocumentMoniker": "TranGiaBao\\Images\\gold.png",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\gold.png - PNG [360x360, 32 bit, PNG]",
+              "RelativeToolTip": "TranGiaBao\\Images\\gold.png - PNG [360x360, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T08:21:56.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "trungga.png - PNG [418x597, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\trungga.png",
+              "RelativeDocumentMoniker": "TranGiaBao\\Images\\trungga.png",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\trungga.png - PNG [418x597, 32 bit, PNG]",
+              "RelativeToolTip": "TranGiaBao\\Images\\trungga.png - PNG [418x597, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T08:21:54.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gagag.png - PNG [500x500, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\gagag.png",
+              "RelativeDocumentMoniker": "TranGiaBao\\Images\\gagag.png",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\gagag.png - PNG [500x500, 32 bit, PNG]",
+              "RelativeToolTip": "TranGiaBao\\Images\\gagag.png - PNG [500x500, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T08:20:59.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "background.jpeg",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\background.jpeg",
+              "RelativeDocumentMoniker": "TranGiaBao\\Images\\background.jpeg",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\background.jpeg",
+              "RelativeToolTip": "TranGiaBao\\Images\\background.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T08:20:54.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bong.png - PNG [600x600, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\bong.png",
+              "RelativeDocumentMoniker": "TranGiaBao\\Images\\bong.png",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\bong.png - PNG [600x600, 32 bit, PNG]",
+              "RelativeToolTip": "TranGiaBao\\Images\\bong.png - PNG [600x600, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T05:24:59.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ga2.png - PNG [360x360, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\ga2.png",
+              "RelativeDocumentMoniker": "TranGiaBao\\Images\\ga2.png",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\ga2.png - PNG [360x360, 32 bit, PNG]",
+              "RelativeToolTip": "TranGiaBao\\Images\\ga2.png - PNG [360x360, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-12T09:01:21.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vo.png - PNG [1200x1200, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\vo.png",
+              "RelativeDocumentMoniker": "TranGiaBao\\Images\\vo.png",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\vo.png - PNG [1200x1200, 32 bit, PNG]",
+              "RelativeToolTip": "TranGiaBao\\Images\\vo.png - PNG [1200x1200, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-12T09:01:15.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ro2.png - PNG [360x360, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\ro2.png",
+              "RelativeDocumentMoniker": "TranGiaBao\\Images\\ro2.png",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Images\\ro2.png - PNG [360x360, 32 bit, PNG]",
+              "RelativeToolTip": "TranGiaBao\\Images\\ro2.png - PNG [360x360, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-12T08:54:27.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form27wp.Designer.cs",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form27wp.Designer.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form27wp.Designer.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form27wp.Designer.cs",
+              "RelativeToolTip": "TranGiaBao\\Form27wp.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:29:09.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form27wp.cs",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form27wp.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form27wp.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form27wp.cs",
+              "RelativeToolTip": "TranGiaBao\\Form27wp.cs",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAgwPMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:17:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form27wp.cs [Design]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form27wp.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form27wp.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form27wp.cs [Design]",
+              "RelativeToolTip": "TranGiaBao\\Form27wp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:16:05.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form26wp.cs",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form26wp.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form26wp.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form26wp.cs",
+              "RelativeToolTip": "TranGiaBao\\Form26wp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:02:20.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form26wp.cs [Design]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form26wp.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form26wp.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form26wp.cs [Design]",
+              "RelativeToolTip": "TranGiaBao\\Form26wp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:01:15.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form25wp.cs",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form25wp.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form25wp.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form25wp.cs",
+              "RelativeToolTip": "TranGiaBao\\Form25wp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:46:41.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form25wp.cs [Design]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form25wp.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form25wp.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form25wp.cs [Design]",
+              "RelativeToolTip": "TranGiaBao\\Form25wp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:45:24.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form24.cs",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form24.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24.cs",
+              "RelativeToolTip": "TranGiaBao\\Form24.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:39:19.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form24.cs [Design]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form24.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24.cs [Design]",
+              "RelativeToolTip": "TranGiaBao\\Form24.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:30:49.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form24wp.Designer.cs",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24wp.Designer.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form24wp.Designer.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24wp.Designer.cs",
+              "RelativeToolTip": "TranGiaBao\\Form24wp.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:20:03.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form24wp.cs",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24wp.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form24wp.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24wp.cs",
+              "RelativeToolTip": "TranGiaBao\\Form24wp.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:21:07.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Menu.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Menu.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Menu.cs",
+              "RelativeToolTip": "TranGiaBao\\Menu.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:19:31.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Menu.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Menu.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Menu.cs [Design]",
+              "RelativeToolTip": "TranGiaBao\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:19:01.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form24wp.cs [Design]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24wp.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form24wp.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form24wp.cs [Design]",
+              "RelativeToolTip": "TranGiaBao\\Form24wp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:18:52.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form11.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form11.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form11.cs",
+              "RelativeToolTip": "TranGiaBao\\Form11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:52:40.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form11.cs [Design]",
+              "DocumentMoniker": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form11.cs",
+              "RelativeDocumentMoniker": "TranGiaBao\\Form11.cs",
+              "ToolTip": "C:\\Tat ca mon hoc\\C#\\TranGiaBao\\TranGiaBao\\Form11.cs [Design]",
+              "RelativeToolTip": "TranGiaBao\\Form11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:49:48.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
